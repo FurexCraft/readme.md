@@ -1,6 +1,6 @@
 **SOBRE FUREXCRAFT NETWORK**
 
-FurexCraft network es una network de minecraft perteneciente a la empresa Furex.
+FurexCraft network es una network de minecraft.
 Contamos con todo tipo de modalidades y comunidad muy amigable.
 Aqui podras encontrar codigos del servidor que publiquemos nosotros publicamente para vosotros.
 
